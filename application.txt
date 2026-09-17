@@ -39,4 +39,6 @@ Order Management
 
 
 
-
+Order Management-1
+- Customers can view their orders.
+- Customers can review previous order details.
