@@ -1,0 +1,42 @@
+E-Commerce Application
+
+Product Catalog
+- Product listing is available.
+- Product name and price are displayed.
+- Product category is displayed.
+- Product availability status is displayed.
+
+Product Search
+- Products can be searched by name.
+- Search results are displayed.
+
+Pricing
+- Product prices can be updated.
+- Updated prices are reflected in the product catalog.
+- Need to update
+
+Wishlist
+- Products can be added to a wishlist.
+- Wishlist items can be viewed separately.
+
+Oreded
+  - Placed new order
+
+Payment Processing
+- Customers can complete payments securely.
+- Payment status is recorded for each order.
+
+
+
+Order Tracking
+- Customers can view order status.
+- Order status is displayed using standardized status values.
+- Order status is updated as the order progresses.
+
+Order Management
+- Customers can view their orders.
+- Customers can review previous order details.
+
+
+
+
