@@ -21,6 +21,10 @@ Wishlist
 Oreded
   - Placed new order
 
+Payment Processing
+- Customers can complete payments securely.
+- Payment status is recorded for each order.
+
 
 Order Tracking
 - Customers can view order status.
