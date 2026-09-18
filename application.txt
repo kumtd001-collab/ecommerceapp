@@ -25,27 +25,24 @@ Oreded
 Payment Processing
 - Customers can complete payments securely.
 - Payment status is recorded for each order.
-
-
-
-
-
-
-Order Tracking
-- Customers can view order status.
+Customers can view order status.
 - Order status is displayed using standardized status values.
 - Order status is updated as the order progresses.
-
-
 Order Management
 - Customers can view their orders.
 - Customers can review previous order details.
-
-
 
 Order Management-1
 - Customers can view their orders.
 - Customers can review previous order details.
 End of order file
 
+
+Customer Profile
+- Customers can view their profile information.
+- Customers can update their profile information.
+
+Order History
+- Customers can view their previous orders.
+- Customers can review the details of completed orders.
 
