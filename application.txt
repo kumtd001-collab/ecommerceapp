@@ -59,5 +59,8 @@ Delivery Management
 Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
+Search Analytics
+- Search activity can be recorded.
+- Search usage can be reviewed.
 
 
