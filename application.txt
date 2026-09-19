@@ -59,6 +59,7 @@ Delivery Management
 Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
+<<<<<<< HEAD
 
 Search Analytics
 - Search activity can be recorded.
@@ -68,5 +69,7 @@ Order Reports
 - Order information can be summarized for review.
 
 
+=======
+>>>>>>> parent of 258c239 (AA - Add Search Analytics)
 
 
