@@ -82,5 +82,8 @@ Search Analytics
 Order Reports
 - Order reports can be generated.
 - Order information can be summarized for review.
+Order Confirmation
+- Customers receive confirmation after placing an order.
+- The confirmation includes the order reference.
 
 
