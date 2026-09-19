@@ -60,6 +60,7 @@ Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -73,6 +74,8 @@ Order Reports
 
 
 
+=======
+>>>>>>> parent of 258c239 (AA - Add Search Analytics)
 =======
 >>>>>>> parent of 258c239 (AA - Add Search Analytics)
 
